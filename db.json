@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "name": "Lucky",
+      "email": "lucky@gmail.com",
+      "age": 32,
+      "phone": 9805317301,
+      "id": 1
+    },
+    {
+      "name": "vicky",
+      "email": "vicky@gmail.com",
+      "age": 25,
+      "phone": 9805317302,
+      "id": 2
+    },
+    {
+      "name": "Test",
+      "email": "test",
+      "phone": "5655",
+      "age": "20",
+      "id": 3
+    },
+    {
+      "name": "Testone",
+      "email": "test@gmai.com",
+      "phone": "111111",
+      "age": "20",
+      "id": 4
+    },
+    {
+      "name": "raj",
+      "email": "raj@gmail.com",
+      "phone": "987456123",
+      "age": "18",
+      "id": 5
+    }
+  ]
+}
